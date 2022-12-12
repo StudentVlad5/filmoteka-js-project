@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https:https://studentvlad5.github.io/filmoteka-js-project"
+    "url": "git+https://studentvlad5.github.io/filmoteka-js-project"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/StudentVlad5/filmoteka-js-project/issues"
+    "url": "https://github.com/goitacademy/parcel-project-template/issues"
   },
   "dependencies": {
     "@firebase/app": "^0.8.4",
