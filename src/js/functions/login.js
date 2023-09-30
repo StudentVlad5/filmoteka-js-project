@@ -29,7 +29,7 @@ const auth = getAuth(app);
 // Fire Database
 const dataBase = getDatabase();
 
-export { auth, db };
+export { auth, dataBase };
 export let listOfDataQueue = [];
 export let listOfDataWathed = [];
 
